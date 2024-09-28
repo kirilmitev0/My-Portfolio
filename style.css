@@ -120,6 +120,7 @@ header {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+    box-shadow: 10px 0px 10px 10px gray;
 }
 
 .about-content {
@@ -143,6 +144,7 @@ header {
     background-color: white;
     color: black;
     border: 2px solid #333;
+    margin-bottom: 5vh;
 }
 
 .projects {
@@ -165,7 +167,7 @@ header {
     padding: 20px;
     width: 30%;
     margin: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 10px 10px 10px 10px gray;
 }
 
 .projects .project-list button{
